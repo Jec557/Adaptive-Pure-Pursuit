@@ -1,4 +1,4 @@
-# Adaptive Pure Pursuit Program used by VEX Robotics Team 955R 
+# Adaptive Pure Pursuit Controller used by VEX Robotics Team 955R 
 ## Created by Joshua Chong
 Using this program will require the the use of an external operating system to run the calculations, as the VEX brain cannot handle it for some reason. The operating system we used was cpp.sh.
 
