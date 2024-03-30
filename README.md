@@ -5,6 +5,7 @@ Using this program will require the the use of an external operating system to r
 
 Paste the following into the operating system and add your waypoints where it says to under main. Paste the output of this program where it says to at the bottom of odometry in the Pure Pursuit program. You can also paste the calculated path into a graphing calculator such as Desmos to view your path. Just make sure to change the brackets to parentesis in the code that displays the path so that it easy to copy:
 
+```
 #include <iostream>
 #include <vector>
 #include <cmath>
@@ -158,4 +159,4 @@ int main() {
         std::cout << newvelocities[i] << ", ";
     }
 }
-
+```
